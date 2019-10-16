@@ -33,7 +33,6 @@
 
 <script>
 import ProductsTable from "./components/ProductsTable";
-import AppPayment from "./components/AppPayment";
 
 // как будто данные пришли с сервера и мы их спарсили в products
 let products = [
