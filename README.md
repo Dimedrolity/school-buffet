@@ -1,4 +1,4 @@
-# comps2
+# school-card-buffet-2
 
 ## Project setup
 ```
