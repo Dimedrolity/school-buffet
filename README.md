@@ -1,19 +1,4 @@
 # school-card-buffet-2
 
-## Project setup
-```
-npm install
-```
+frontend via Bulma.io and Vue.js. Project was created by vue-cli. Contains .vue components.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
