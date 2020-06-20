@@ -1,4 +1,8 @@
-# school-card-buffet-2
+# school-buffet
 
-frontend via Bulma.io and Vue.js. Project was created by vue-cli. Contains .vue components.
+Проект для изучения Bulma и Vue.js (создано с помощью vue-cli)
+
+![Буфет](https://github.com/Dimedrolity/school-buffet/raw/master/buffet.png)
+
+
 
